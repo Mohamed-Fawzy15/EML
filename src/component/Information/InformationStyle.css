@@ -1,0 +1,30 @@
+.info-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 50px;
+  align-items: center;
+  padding-bottom: 0;
+}
+
+.phone {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 20px;
+}
+
+.phone h3 {
+  margin-left: 2px;
+}
+
+.mail {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.mail h3 {
+  margin-left: 2px;
+}
