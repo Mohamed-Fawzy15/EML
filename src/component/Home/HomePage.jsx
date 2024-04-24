@@ -24,7 +24,7 @@ const HomePage = () => {
           <img src={productImg} alt="product" className="product" />
         </div>
         <div className="carsoulInfo">
-          <h1 className="carsoulHeader">Abu Heiba</h1>
+          <h1 className="carsoulHeader">ُEML</h1>
           <p className="carsoulText">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ipsa
             sunt laborum, sed labore debitis inventore tempore dolorum libero,

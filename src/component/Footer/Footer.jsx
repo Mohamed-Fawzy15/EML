@@ -15,6 +15,7 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
   const foodImg = [
     {
+      id: 1,
       image: Picture1,
     },
     {
